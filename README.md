@@ -1,4 +1,5 @@
 # RNA Secondary Structure Predictor
+Developed by Sheev Patel
 
 ## Overview
 This program predicts the optimal secondary structure of an RNA sequence by maximizing base pairings and associated scores using a dynamic programming approach. The algorithm also considers a minimum distance constraint between paired bases.
